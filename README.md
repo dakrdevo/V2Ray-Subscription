@@ -9,9 +9,11 @@
 
 این صفحه با هدف فراهم کردن دسترسی امن و رایگان به اینترنت ایجاد شده است.  
 با برنامه‌های مربوط می‌توانید اتصال خود را امن کرده و محدودیت‌ها را دور بزنید.
+کانفیگ ها تا زمانی که متصل هستند اپدیت نمیشوند و ایپی ثابت هستند.
 
 This page provides safe and free internet access.  
 Using relevant clients, you can secure your connection and bypass restrictions.
+The configs are not updated as long as they are connected and the IP is fixed.
 
 ---
 
