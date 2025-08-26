@@ -21,8 +21,8 @@ Using relevant clients, you can secure your connection and bypass restrictions.
 
 | فارسی | English |
 |-------|---------|
-| [![Download](https://img.shields.io/badge/ 📥-لینک%20ساب-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub ) | [![Download](https://img.shields.io/badge/ 📥-Subscription-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub ) |
-| [![Download](https://img.shields.io/badge/ 📥-لینک%20ساب%20بیس64-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub-Base64 ) | [![Download](https://img.shields.io/badge/ 📥-Subscription%20Base64-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub-Base64 ) |
+| [![Download](https://img.shields.io/badge/📥-لینک%20ساب-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub) | [![Download](https://img.shields.io/badge/📥-Subscription-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub) |
+| [![Download](https://img.shields.io/badge/📥-لینک%20ساب%20بیس64-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub-Base64) | [![Download](https://img.shields.io/badge/📥-Subscription%20Base64-blue)](https://dakrdevo.github.io/V2Ray-Subscription/Sub-Base64) |
 
 > توجه: برای استفاده از این لینک‌ها، نیاز به برنامه‌های مربوط دارید.  
 > Note: To use these links, you need relevant clients.
@@ -35,9 +35,9 @@ Using relevant clients, you can secure your connection and bypass restrictions.
 
 | سیستم عامل | Operating System | کلاینت | Client | لینک | Link |
 |-------------|----------------|--------|--------|------|------|
-| ویندوز | Windows | V2RayN | V2RayN | [![Download](https://img.shields.io/badge/ 📥-دانلود-blue)](https://github.com/2dust/v2rayN ) | [![Download](https://img.shields.io/badge/ 📥-Download-blue)](https://github.com/2dust/v2rayN ) |
-| اندروید | Android | V2RayNG | V2RayNG | [![Download](https://img.shields.io/badge/ 📥-دانلود-blue)](https://github.com/2dust/v2rayNG ) | [![Download](https://img.shields.io/badge/ 📥-Download-blue)](https://github.com/2dust/v2rayNG ) |
-| چند پلتفرم | Multi-platform | Hiddify | Hiddify | [![Download](https://img.shields.io/badge/ 📥-دانلود-blue)](https://github.com/hiddify/hiddify-app/releases/tag/draft ) | [![Download](https://img.shields.io/badge/ 📥-Download-blue)](https://github.com/hiddify/hiddify-app/releases/tag/draft ) |
+| ویندوز | Windows | V2RayN | V2RayN | [![Download](https://img.shields.io/badge/📥-دانلود-blue)](https://github.com/2dust/v2rayN) | [![Download](https://img.shields.io/badge/📥-Download-blue)](https://github.com/2dust/v2rayN) |
+| اندروید | Android | V2RayNG | V2RayNG | [![Download](https://img.shields.io/badge/📥-دانلود-blue)](https://github.com/2dust/v2rayNG) | [![Download](https://img.shields.io/badge/📥-Download-blue)](https://github.com/2dust/v2rayNG) |
+| چند پلتفرم | Multi-platform | Hiddify | Hiddify | [![Download](https://img.shields.io/badge/📥-دانلود-blue)](https://github.com/hiddify/hiddify-app/releases/tag/draft) | [![Download](https://img.shields.io/badge/📥-Download-blue)](https://github.com/hiddify/hiddify-app/releases/tag/draft) |
 
 ### مراحل استفاده | Steps
 
